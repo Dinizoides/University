@@ -1,0 +1,12 @@
+[
+    {"data":"20200601", "hora":"10:00", "tempo": "120", "tipo": "Pratica", "cadeiraID": "01234", "aulaID":"0001"},
+    {"data":"20200608", "hora":"10:00", "tempo": "120", "tipo": "Pratica", "cadeiraID": "01234", "aulaID":"0002"},
+    {"data":"20200615", "hora":"10:00", "tempo": "120", "tipo": "Pratica", "cadeiraID": "01234", "aulaID":"0003"},
+    {"data":"20200622", "hora":"10:00", "tempo": "120", "tipo": "Pratica", "cadeiraID": "01234", "aulaID":"0004"},
+    {"data":"20200629", "hora":"10:00", "tempo": "120", "tipo": "Pratica", "cadeiraID": "01234", "aulaID":"0005"},
+    {"data":"20200601", "hora":"10:00", "tempo": "120", "tipo": "Pratica", "cadeiraID": "01234", "aulaID":"0006"},
+    {"data":"20200706", "hora":"10:00", "tempo": "120", "tipo": "Pratica", "cadeiraID": "01234", "aulaID":"0007"},
+    {"data":"20200713", "hora":"10:00", "tempo": "120", "tipo": "Pratica", "cadeiraID": "01234", "aulaID":"0008"},
+    {"data":"20200720", "hora":"10:00", "tempo": "120", "tipo": "Pratica", "cadeiraID": "01234", "aulaID":"0009"},
+    {"data":"20200727", "hora":"10:00", "tempo": "120", "tipo": "Pratica", "cadeiraID": "01234", "aulaID":"0010"}
+]

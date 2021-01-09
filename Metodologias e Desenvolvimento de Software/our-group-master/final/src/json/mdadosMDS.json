@@ -1,0 +1,8 @@
+[
+{"nome":"Hallam Burnett", "cartao":"001", "papel":"aluno", "mail": "aluno1@uevora.com", "pass": "23ola"},
+{"nome":"Lois Franks", "cartao":"002", "papel":"aluno", "mail": "aluno2@uevora.com", "pass": "sim55"},
+{"nome":"Miyah Kane", "cartao":"003", "papel":"aluno", "mail": "aluno3@uevora.com", "pass": "kaneandable"},
+{"nome":"Samanta Chaney", "cartao":"004", "papel":"aluno", "mail": "aluno4@uevora.com", "pass": "channel25"},
+{"nome":"Prisha Ball", "cartao":"005", "papel":"aluno", "mail": "aluno5@uevora.com", "pass": "dragonb22"},
+{"nome":"Leonie Leonard", "cartao":"100", "papel":"docente", "mail": "docente100@uevora.com", "pass": "dicaprio99"}
+]
